@@ -272,17 +272,13 @@ Example
 ```
 screenshots/
 
-create-driver.png
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/5da6c4fe-b787-4663-9310-3aaab523dffc" />
 
-update-location.png
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/573bf92f-8ca0-49e6-99a5-a1aa8e728d94" />
 
-request-ride.png
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/d258e6a1-a20a-41fd-92d7-d1b5b3134be7" />
 
-accept-ride.png
-
-timeout.png
-
-concurrency-test.png
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/49e025e2-47bd-4965-b2f6-1fe2be127728" />
 ```
 
 ---
